@@ -1,6 +1,11 @@
 # StudyNotion-AnEdtechPlatform
 
-This is a starter pack for setting up the project on your loacal desktop . It uses React version **18.2** .The project is build using MERN stack and it aims to provide a seamless and interactive learning experience for students, making education more accessible and engaging. It is a platform for instructors to showcase their expertise and connect with learners across the globe.
+This is a starter pack for setting up the project on your loacal desktop.The project is build using MERN stack and it aims to provide a seamless and interactive learning experience for students, making education more accessible and engaging. It is a platform for instructors to showcase their expertise and connect with learners across the globe.
+
+## Archiecture Diagram
+
+![architecture](https://github.com/mishramihir1310/StudyNotion_EdTechPlatform/assets/128243397/48e39d69-a1ce-4e6e-a447-2d718e36f6c7)
+
 
 ## Usage
 
@@ -27,7 +32,7 @@ This starter pack includes a basic setup for using **STUDYNOTION**. To start bui
 Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
 
 ## ScreenShots of Project 
-![Screenshot (230)](https://github.com/mishramihir1310/StudyNotion_EdTechPlatform/assets/128243397/b179798e-862e-43cd-b5fd-65380e5a5c10)
+![StudyNotion](https://github.com/mishramihir1310/StudyNotion_EdTechPlatform/assets/128243397/96d0d2ca-f5de-4c2a-9e2f-3b46de204e49)
 
 ![Screenshot (261)](https://github.com/mishramihir1310/StudyNotion_EdTechPlatform/assets/128243397/1d216e1c-bbd3-4865-abe9-168ea3d1110f)
 
