@@ -32,7 +32,7 @@ This starter pack includes a basic setup for using **STUDYNOTION**. To start bui
 Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
 
 ## ScreenShots of Project 
-![StudyNotion](https://github.com/mishramihir1310/StudyNotion_EdTechPlatform/assets/128243397/96d0d2ca-f5de-4c2a-9e2f-3b46de204e49)
+![Screenshot (230)](https://github.com/mishramihir1310/StudyNotion_EdTechPlatform/assets/128243397/05cd1c9a-6a3a-4871-8b08-7624bf9957d8)
 
 ![Screenshot (261)](https://github.com/mishramihir1310/StudyNotion_EdTechPlatform/assets/128243397/1d216e1c-bbd3-4865-abe9-168ea3d1110f)
 
