@@ -29,6 +29,12 @@ Contributions are welcome! If you have any suggestions or find any issues, pleas
 ## ScreenShots of Project 
 ![Screenshot (230)](https://github.com/mishramihir1310/StudyNotion_EdTechPlatform/assets/128243397/b179798e-862e-43cd-b5fd-65380e5a5c10)
 
+![Screenshot (261)](https://github.com/mishramihir1310/StudyNotion_EdTechPlatform/assets/128243397/1d216e1c-bbd3-4865-abe9-168ea3d1110f)
+
+![Screenshot (262)](https://github.com/mishramihir1310/StudyNotion_EdTechPlatform/assets/128243397/1bbd81c8-26bf-485e-a94f-ef873da2a32b)
+
+![Screenshot (263)](https://github.com/mishramihir1310/StudyNotion_EdTechPlatform/assets/128243397/d83bbee1-3a13-4768-aabe-c9c33930c3bf)
+
 ![Screenshot (247)](https://github.com/mishramihir1310/StudyNotion_EdTechPlatform/assets/128243397/bf4fad04-e77e-4239-94bb-d132f05d83d8)
 
 ![Screenshot (253)](https://github.com/mishramihir1310/StudyNotion_EdTechPlatform/assets/128243397/ee6afead-ea69-4fff-a6d3-7c51a588e25c)
